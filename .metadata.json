@@ -1,0 +1,34 @@
+[
+  {
+    "package": "CovTools",
+    "oncran": true
+  },
+  {
+    "package": "maotai",
+    "oncran": true
+  },
+  {
+    "package": "Rdimtools",
+    "oncran": true
+  },
+  {
+    "package": "Riemann",
+    "oncran": true
+  },
+  {
+    "package": "RiemBase",
+    "oncran": true
+  },
+  {
+    "package": "SHT",
+    "oncran": true
+  },
+  {
+    "package": "T4cluster",
+    "oncran": true
+  },
+  {
+    "package": "tvR",
+    "oncran": true
+  }
+]
