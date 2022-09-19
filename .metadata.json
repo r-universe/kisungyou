@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "maotai",
+    "oncran": true
+  },
+  {
     "package": "Rdimtools",
     "oncran": true
   },
