@@ -8,11 +8,6 @@
 	url = https://github.com/kisungyou/covtools
 	shallow = true
 	registered = true
-[submodule "maotai"]
-	path = maotai
-	url = https://github.com/kisungyou/maotai
-	shallow = true
-	registered = true
 [submodule "Rdimtools"]
 	path = Rdimtools
 	url = https://github.com/kisungyou/rdimtools
