@@ -1,6 +1,18 @@
 [
   {
-    "package": "CovTools",
+    "package": "RiemBase",
+    "oncran": true
+  },
+  {
+    "package": "T4cluster",
+    "oncran": true
+  },
+  {
+    "package": "tvR",
+    "oncran": true
+  },
+  {
+    "package": "SHT",
     "oncran": true
   },
   {
@@ -12,23 +24,11 @@
     "oncran": true
   },
   {
+    "package": "CovTools",
+    "oncran": true
+  },
+  {
     "package": "Riemann",
-    "oncran": true
-  },
-  {
-    "package": "RiemBase",
-    "oncran": true
-  },
-  {
-    "package": "SHT",
-    "oncran": true
-  },
-  {
-    "package": "T4cluster",
-    "oncran": true
-  },
-  {
-    "package": "tvR",
     "oncran": true
   }
 ]
