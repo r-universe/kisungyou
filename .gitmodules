@@ -3,24 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "RiemBase"]
-	path = RiemBase
-	url = https://github.com/kisungyou/riembase
-	shallow = true
-	registered = true
-[submodule "T4cluster"]
-	path = T4cluster
-	url = https://github.com/kisungyou/t4cluster
-	shallow = true
-	registered = true
-[submodule "tvR"]
-	path = tvR
-	url = https://github.com/kisungyou/tvr
-	shallow = true
-	registered = true
-[submodule "SHT"]
-	path = SHT
-	url = https://github.com/kisungyou/sht
+[submodule "CovTools"]
+	path = CovTools
+	url = https://github.com/kisungyou/covtools
 	shallow = true
 	registered = true
 [submodule "maotai"]
@@ -33,13 +18,28 @@
 	url = https://github.com/kisungyou/rdimtools
 	shallow = true
 	registered = true
-[submodule "CovTools"]
-	path = CovTools
-	url = https://github.com/kisungyou/covtools
-	shallow = true
-	registered = true
 [submodule "Riemann"]
 	path = Riemann
 	url = https://github.com/kisungyou/riemann
+	shallow = true
+	registered = true
+[submodule "RiemBase"]
+	path = RiemBase
+	url = https://github.com/kisungyou/riembase
+	shallow = true
+	registered = true
+[submodule "SHT"]
+	path = SHT
+	url = https://github.com/kisungyou/sht
+	shallow = true
+	registered = true
+[submodule "T4cluster"]
+	path = T4cluster
+	url = https://github.com/kisungyou/t4cluster
+	shallow = true
+	registered = true
+[submodule "tvR"]
+	path = tvR
+	url = https://github.com/kisungyou/tvr
 	shallow = true
 	registered = true
