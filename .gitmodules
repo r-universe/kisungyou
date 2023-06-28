@@ -1,100 +1,61 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "ADMM"]
 	path = ADMM
 	url = https://github.com/kisungyou/admm
-	shallow = true
-	registered = true
 [submodule "CovTools"]
 	path = CovTools
 	url = https://github.com/kisungyou/covtools
-	shallow = true
-	registered = true
 [submodule "filling"]
 	path = filling
 	url = https://github.com/kisungyou/filling
-	shallow = true
-	registered = true
 [submodule "graphon"]
 	path = graphon
 	url = https://github.com/kisungyou/graphon
-	shallow = true
-	registered = true
 [submodule "maotai"]
 	path = maotai
 	url = https://github.com/kisungyou/maotai
-	shallow = true
-	registered = true
 [submodule "mclustcomp"]
 	path = mclustcomp
 	url = https://github.com/kisungyou/mclustcomp
-	shallow = true
-	registered = true
 [submodule "NetworkDistance"]
 	path = NetworkDistance
 	url = https://github.com/kisungyou/networkdistance
-	shallow = true
-	registered = true
 [submodule "Rdimtools"]
 	path = Rdimtools
 	url = https://github.com/kisungyou/rdimtools
-	shallow = true
-	registered = true
 [submodule "Riemann"]
 	path = Riemann
 	url = https://github.com/kisungyou/riemann
-	shallow = true
-	registered = true
 [submodule "RiemBase"]
 	path = RiemBase
 	url = https://github.com/kisungyou/riembase
-	shallow = true
-	registered = true
 [submodule "Rlinsolve"]
 	path = Rlinsolve
 	url = https://github.com/kisungyou/rlinsolve
-	shallow = true
-	registered = true
 [submodule "ROptSpace"]
 	path = ROptSpace
 	url = https://github.com/kisungyou/roptspace
-	shallow = true
-	registered = true
 [submodule "SBmedian"]
 	path = SBmedian
 	url = https://github.com/kisungyou/sbmedian
-	shallow = true
-	registered = true
 [submodule "SHT"]
 	path = SHT
 	url = https://github.com/kisungyou/sht
-	shallow = true
-	registered = true
 [submodule "T4cluster"]
 	path = T4cluster
 	url = https://github.com/kisungyou/t4cluster
-	shallow = true
-	registered = true
 [submodule "T4transport"]
 	path = T4transport
 	url = https://github.com/kisungyou/t4transport
-	shallow = true
-	registered = true
 [submodule "TDAkit"]
 	path = TDAkit
 	url = https://github.com/kisungyou/tdakit
-	shallow = true
-	registered = true
 [submodule "tvR"]
 	path = tvR
 	url = https://github.com/kisungyou/tvr
-	shallow = true
-	registered = true
 [submodule "Zseq"]
 	path = Zseq
 	url = https://github.com/kisungyou/zseq
-	shallow = true
-	registered = true
