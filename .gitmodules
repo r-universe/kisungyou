@@ -8,36 +8,24 @@
 [submodule "CovTools"]
 	path = CovTools
 	url = https://github.com/kisungyou/covtools
-[submodule "filling"]
-	path = filling
-	url = https://github.com/kisungyou/filling
-[submodule "graphon"]
-	path = graphon
-	url = https://github.com/kisungyou/graphon
-[submodule "maotai"]
-	path = maotai
-	url = https://github.com/kisungyou/maotai
-[submodule "mclustcomp"]
-	path = mclustcomp
-	url = https://github.com/kisungyou/mclustcomp
 [submodule "NetworkDistance"]
 	path = NetworkDistance
 	url = https://github.com/kisungyou/networkdistance
-[submodule "Rdimtools"]
-	path = Rdimtools
-	url = https://github.com/kisungyou/rdimtools
-[submodule "Riemann"]
-	path = Riemann
-	url = https://github.com/kisungyou/riemann
-[submodule "RiemBase"]
-	path = RiemBase
-	url = https://github.com/kisungyou/riembase
-[submodule "Rlinsolve"]
-	path = Rlinsolve
-	url = https://github.com/kisungyou/rlinsolve
 [submodule "ROptSpace"]
 	path = ROptSpace
 	url = https://github.com/kisungyou/roptspace
+[submodule "Rdimtools"]
+	path = Rdimtools
+	url = https://github.com/kisungyou/rdimtools
+[submodule "RiemBase"]
+	path = RiemBase
+	url = https://github.com/kisungyou/riembase
+[submodule "Riemann"]
+	path = Riemann
+	url = https://github.com/kisungyou/riemann
+[submodule "Rlinsolve"]
+	path = Rlinsolve
+	url = https://github.com/kisungyou/rlinsolve
 [submodule "SBmedian"]
 	path = SBmedian
 	url = https://github.com/kisungyou/sbmedian
@@ -53,9 +41,21 @@
 [submodule "TDAkit"]
 	path = TDAkit
 	url = https://github.com/kisungyou/tdakit
-[submodule "tvR"]
-	path = tvR
-	url = https://github.com/kisungyou/tvr
 [submodule "Zseq"]
 	path = Zseq
 	url = https://github.com/kisungyou/zseq
+[submodule "filling"]
+	path = filling
+	url = https://github.com/kisungyou/filling
+[submodule "graphon"]
+	path = graphon
+	url = https://github.com/kisungyou/graphon
+[submodule "maotai"]
+	path = maotai
+	url = https://github.com/kisungyou/maotai
+[submodule "mclustcomp"]
+	path = mclustcomp
+	url = https://github.com/kisungyou/mclustcomp
+[submodule "tvR"]
+	path = tvR
+	url = https://github.com/kisungyou/tvr
