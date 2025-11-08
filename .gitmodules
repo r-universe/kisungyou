@@ -56,6 +56,9 @@
 [submodule "mclustcomp"]
 	path = mclustcomp
 	url = https://github.com/kisungyou/mclustcomp
+[submodule "repsim"]
+	path = repsim
+	url = https://github.com/cran/repsim
 [submodule "tvR"]
 	path = tvR
 	url = https://github.com/kisungyou/tvr
